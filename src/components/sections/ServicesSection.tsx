@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { placeholderImages } from "@/lib/placeholder-images.json";
+import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { ScrollReveal } from "../ScrollReveal";
 
 const servicesData = [
@@ -38,7 +38,7 @@ export default function ServicesSection() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {servicesData.map((service, index) => {
-            const image = placeholderImages.find(p => p.id === service.id);
+            const image = PlaceHolderImages.find(p => p.id === service.id);
             return (
               <ScrollReveal key={service.id} delay={index * 150}>
                 <Card className="bg-card border-border/60 overflow-hidden h-full flex flex-col group transition-all duration-300 hover:border-primary/50 hover:shadow-2xl hover:shadow-primary/10 hover:-translate-y-2">

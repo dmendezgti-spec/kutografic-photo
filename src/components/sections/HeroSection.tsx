@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { placeholderImages } from "@/lib/placeholder-images.json";
+import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { ScrollReveal } from "../ScrollReveal";
 
-const heroImage = placeholderImages.find(p => p.id === 'hero-background');
+const heroImage = PlaceHolderImages.find(p => p.id === 'hero-background');
 
 export default function HeroSection() {
   return (
