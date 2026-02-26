@@ -1,6 +1,7 @@
 "use server";
 
-import { type QuoteFormState, quoteSchema } from "@/types";
+import { type QuoteFormState } from "@/types";
+import { quoteSchema } from "@/lib/schemas";
 
 export async function sendQuoteRequest(
   prevState: QuoteFormState,
