@@ -1,0 +1,102 @@
+
+[
+  {
+    "id": "1",
+    "type": "photo",
+    "category": "weddings",
+    "title": "Sunset Vows",
+    "description": "A beautiful ceremony during the golden hour.",
+    "url": "https://picsum.photos/seed/g1/1200/800",
+    "thumb": "https://picsum.photos/seed/g1/400/300",
+    "createdAt": "2023-10-26T10:00:00Z",
+    "hint": "wedding couple"
+  },
+  {
+    "id": "2",
+    "type": "photo",
+    "category": "landscapes",
+    "title": "Misty Mountains",
+    "description": "Early morning fog rolling over the mountain peaks.",
+    "url": "https://picsum.photos/seed/g2/1200/800",
+    "thumb": "https://picsum.photos/seed/g2/400/300",
+    "createdAt": "2023-09-15T08:30:00Z",
+    "hint": "misty mountains"
+  },
+  {
+    "id": "3",
+    "type": "photo",
+    "category": "pre-weddings",
+    "title": "City Love",
+    "description": "An engagement session in the heart of the city.",
+    "url": "https://picsum.photos/seed/g3/1200/800",
+    "thumb": "https://picsum.photos/seed/g3/400/300",
+    "createdAt": "2023-11-05T14:00:00Z",
+    "hint": "couple city"
+  },
+  {
+    "id": "4",
+    "type": "photo",
+    "category": "sessions",
+    "title": "Autumn Portrait",
+    "description": "A personal session capturing the essence of autumn.",
+    "url": "https://picsum.photos/seed/g4/800/1200",
+    "thumb": "https://picsum.photos/seed/g4/300/400",
+    "createdAt": "2023-10-20T11:00:00Z",
+    "hint": "autumn portrait"
+  },
+  {
+    "id": "5",
+    "type": "photo",
+    "category": "weddings",
+    "title": "First Dance",
+    "description": "Capturing the magic of the first dance as a married couple.",
+    "url": "https://picsum.photos/seed/g5/1200/800",
+    "thumb": "https://picsum.photos/seed/g5/400/300",
+    "createdAt": "2023-08-12T21:00:00Z",
+    "hint": "wedding dance"
+  },
+  {
+    "id": "6",
+    "type": "photo",
+    "category": "landscapes",
+    "title": "Coastal Serenity",
+    "description": "The calm sea at dawn.",
+    "url": "https://picsum.photos/seed/g6/1200/800",
+    "thumb": "https://picsum.photos/seed/g6/400/300",
+    "createdAt": "2023-07-22T06:00:00Z",
+    "hint": "calm coast"
+  },
+  {
+    "id": "7",
+    "type": "photo",
+    "category": "sessions",
+    "title": "Urban Explorer",
+    "description": "A personal branding session in an urban environment.",
+    "url": "https://picsum.photos/seed/g7/800/1200",
+    "thumb": "https://picsum.photos/seed/g7/300/400",
+    "createdAt": "2023-09-30T16:30:00Z",
+    "hint": "urban fashion"
+  },
+  {
+    "id": "8",
+    "type": "photo",
+    "category": "pre-weddings",
+    "title": "Forest Embrace",
+    "description": "A romantic pre-wedding shoot in a lush forest.",
+    "url": "https://picsum.photos/seed/g8/1200/800",
+    "thumb": "https://picsum.photos/seed/g8/400/300",
+    "createdAt": "2023-06-18T15:00:00Z",
+    "hint": "couple forest"
+  },
+  {
+    "id": "9",
+    "type": "photo",
+    "category": "weddings",
+    "title": "Details Matter",
+    "description": "Close-up of wedding rings and decorations.",
+    "url": "https://picsum.photos/seed/g9/1200/800",
+    "thumb": "https://picsum.photos/seed/g9/400/300",
+    "createdAt": "2023-08-12T14:00:00Z",
+    "hint": "wedding rings"
+  }
+]
