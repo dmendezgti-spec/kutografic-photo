@@ -24,7 +24,8 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { useToast } from "@/hooks/use-toast";
-import { quoteSchema, sendQuoteRequest, type QuoteFormState } from "@/app/actions";
+import { sendQuoteRequest } from "@/app/actions";
+import { quoteSchema, type QuoteFormState } from "@/types";
 import type { z } from "zod";
 import { Loader2 } from "lucide-react";
 
